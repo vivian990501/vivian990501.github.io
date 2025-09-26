@@ -1,0 +1,119 @@
+*{
+    background-color: transparent; 
+    color: #FFFFFF;
+}
+
+body{
+    background-image: url(/images/backgorund_1.jpg);
+    background-size: cover;
+     background-position: top;
+}
+
+.img-logo{
+    width: 60px;
+}
+
+.container {
+    margin-bottom: 30px;
+}
+
+
+.card {
+    background-color: transparent; 
+    
+}
+
+.nav-link{
+    color: #FFFFFF !important;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 15px;
+    border: none;
+}
+
+.div-Anchorlist .card img {
+
+-moz-border-radius: 35px;
+border-radius: 35px;
+object-fit: cover;
+object-position: top;
+}
+
+.div-Anchorlist .card-img {
+overflow: hidden;
+height: 225px;
+width: 225px;
+}
+
+.div-Anchorlist .card {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px;
+}
+
+.div-introduce p {
+    font-size: 35px;
+}
+
+.div-introduce h3{
+    font-size: 50px;
+}
+.div-Anchorlist h3{
+    font-size: 50px;
+}
+.div-Anchorlist h5{
+    font-size: 30px;
+}
+
+.div-Anchorlist p{
+    font-size: 20px;
+}
+.div-Confessionwell p{
+    font-size: 30px;
+}
+
+.div-Confessionwell h5{
+    font-size: 40px;
+}
+
+.div-Confessionwell h3{
+    font-size: 50px;
+}
+
+.navbar a{
+    font-size: 30px;
+}
+
+footer{
+    font-size: 30px;
+}
+.div-Anchor .card img{
+    width: 100%;
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.div-Anchor .card .card-title{
+    font-size: 50px;
+}
+
+.div-Anchor .card .card-text{
+    font-size: 30px;
+}
+
+
+.div-Anchor .card-img {
+overflow: hidden;
+width: 100%;
+height: 277px;
+}
+
+.div-Anchor .card{
+    border: none;
+}
+.div-song h5{
+    font-size: 50px;
+}
